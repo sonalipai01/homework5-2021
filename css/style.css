@@ -76,13 +76,13 @@ nav a:hover, a:focus{
 
   /*Your code here*/
   position: absolute;
-  transform: translateY(-50px);
+  top: -50px;
 }
 /*Req 3b*/
 /*Write selector/rule property to position the skip class element*/
 .skip a:focus{
   position: absolute;
-  transform: translateY(10px);
+  top: 10px;
 }
 
 /*Req 4*/
@@ -162,7 +162,7 @@ header{
   border: 10px solid black;
   padding: 30px;
   /*Your code here:*/
-  justify-self: center;
+  align-self: center;
 }
 
 
