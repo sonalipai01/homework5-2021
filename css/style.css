@@ -88,8 +88,8 @@ nav a:hover, a:focus{
 /*Req 4*/
 /*Write selector/rule property to style all elements when in focus*/
 *:focus{
-  border-top: 2px dashed #000000;
-  border-bottom: 2px dashed #000000;
+  border-top: 2px dashed;
+  border-bottom: 2px dashed;
 }
 
 /*Req 5*/
